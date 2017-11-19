@@ -1,0 +1,54 @@
+Oct 05, 2017 3:10:47 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/junyipeng/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Oct 05, 2017 3:10:47 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Oct 05, 2017 3:10:47 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Oct 05, 2017 3:10:47 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 758 ms
+Oct 05, 2017 3:10:47 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 05, 2017 3:10:47 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.34
+Oct 05, 2017 3:10:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/hw
+Oct 05, 2017 3:10:47 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/zhou
+Oct 05, 2017 3:10:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/docs
+Oct 05, 2017 3:10:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/peng
+Oct 05, 2017 3:10:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/manager
+Oct 05, 2017 3:10:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/yi
+Oct 05, 2017 3:10:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/examples
+Oct 05, 2017 3:10:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/csj
+Oct 05, 2017 3:10:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/ROOT
+Oct 05, 2017 3:10:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/.git
+Oct 05, 2017 3:10:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/junyipeng/apache-tomcat-7.0.34/webapps/host-manager
+Oct 05, 2017 3:10:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Oct 05, 2017 3:10:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Oct 05, 2017 3:10:49 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2038 ms
+Oct 05, 2017 6:59:07 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-80"]
+Oct 05, 2017 6:59:08 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Oct 05, 2017 6:59:08 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 05, 2017 6:59:08 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-80"]
+Oct 05, 2017 6:59:08 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Oct 05, 2017 6:59:08 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-80"]
+Oct 05, 2017 6:59:08 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
